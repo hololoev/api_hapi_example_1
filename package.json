@@ -1,0 +1,15 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "API server",
+  "main": "server.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "filepaths": "^0.3.0",
+    "hapi": "^17.8.1",
+    "hapi-boom-decorators": "^4.1.2"
+  }
+}
